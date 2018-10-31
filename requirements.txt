@@ -1,0 +1,4 @@
+numpy==1.14.3
+torch==0.4.1
+typing==3.6.4
+bindsnet==0.2.1
