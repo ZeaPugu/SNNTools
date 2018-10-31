@@ -1,4 +1,5 @@
-numpy==1.14.3
+bindsnet.egg==info
 torch==0.4.1
+numpy==1.14.3
 typing==3.6.4
 bindsnet==0.2.1

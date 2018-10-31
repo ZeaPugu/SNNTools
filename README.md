@@ -1,5 +1,5 @@
 # SNNTools
-This project is created for own use
+This project is created for own use.
 
 ## Requirements
 Use pip install -r requirements.txt to download all project dependencies.
