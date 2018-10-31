@@ -1,0 +1,2 @@
+# SNNTools
+for own use
