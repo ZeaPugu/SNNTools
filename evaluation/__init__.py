@@ -11,8 +11,6 @@ from typing import Optional, Tuple, Dict
 from sklearn.linear_model import LogisticRegression
 
 
-# Evaluation codes from BindsNet
-
 def assign_labels(spikes: torch.Tensor, labels: torch.Tensor, n_labels: int, rates: Optional[torch.Tensor] = None,
                   alpha: float = 1.0) -> Tuple[torch.Tensor, torch.Tensor, torch.Tensor]:
     # language=rst
